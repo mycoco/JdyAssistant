@@ -6,7 +6,7 @@
 
 2. 勾选"为Edge浏览器安装Jdy助手]插件"或"为Edge浏览器安装Jdy助手]插件"后点击 "保存".
 
-<img src="https://raw.githubusercontent.com/mycoco/JdyAssistant/main/images/assistant-01.png" alt="alt text" width="300" height="auto"/>/>
+<img src="https://raw.githubusercontent.com/mycoco/JdyAssistant/main/images/assistant-01.png" alt="alt text" width="300" height="auto"/>
 
 
 3. 打开Chrome浏览器"管理扩展程序".
@@ -30,6 +30,7 @@
 
 
 * 启用样式增强
+
 a) 设置网页元素样式高对比度
 
 <img src="https://raw.githubusercontent.com/mycoco/JdyAssistant/main/images/assistant-05.png" alt="alt text"/>
@@ -37,6 +38,7 @@ a) 设置网页元素样式高对比度
 
 
 * 启用服务多开
+
 a) 进入服务后启用Jdy服务多开功能
 
 <img src="https://raw.githubusercontent.com/mycoco/JdyAssistant/main/images/assistant-06.png" alt="alt text"  width="500" height="auto"/>
